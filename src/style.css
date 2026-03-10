@@ -65,7 +65,7 @@
   box-shadow: 0 3px 8px 0 #3d4e6133;
 }
 
-.serch__input:focus {
+.search__input:focus {
   outline: none;
   font-weight: 900;
 }
